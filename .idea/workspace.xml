@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9616648b-4dcf-4bfa-ac3d-616d572847d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4PtTURLfDh93qhoEhd5s6xCeL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Lib/site-packages/pytest/__init__.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_testcfayfi.py">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\QA\py_tests\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/pytest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/pytest/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="easy_install" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/easy_install.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_testcfayfi.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_testcfayfi.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.easy_install" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python tests.pytest in test_testcfayfi.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_testcfayfi.py" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.easy_install" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9616648b-4dcf-4bfa-ac3d-616d572847d5" name="Default Changelist" comment="" />
+      <created>1578406109088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578406109088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578827798468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578827798468" />
+    <state x="1125" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578406262958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1125" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578406262958" />
+    <state x="1107" y="295" key="FileChooserDialogImpl" timestamp="1578827792256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1107" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578827792256" />
+    <state width="1107" height="328" key="GridCell.Tab.0.bottom" timestamp="1578833026088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578833026088" />
+    <state width="1107" height="328" key="GridCell.Tab.0.center" timestamp="1578833026088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578833026088" />
+    <state width="1107" height="328" key="GridCell.Tab.0.left" timestamp="1578833026088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578833026088" />
+    <state width="1107" height="328" key="GridCell.Tab.0.right" timestamp="1578833026088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578833026088" />
+    <state width="1107" height="328" key="GridCell.Tab.1.bottom" timestamp="1578408794716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578408794716" />
+    <state width="1107" height="328" key="GridCell.Tab.1.center" timestamp="1578408794716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578408794716" />
+    <state width="1107" height="328" key="GridCell.Tab.1.left" timestamp="1578408794716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578408794716" />
+    <state width="1107" height="328" key="GridCell.Tab.1.right" timestamp="1578408794716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1107" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578408794716" />
+    <state x="828" y="183" key="SettingsEditor" timestamp="1578827273566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578827273566" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578825979117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578825979117" />
+    <state x="335" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1578411043448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="275" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578411043448" />
+    <state x="992" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1578832930497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="992" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578832930497" />
+  </component>
+</project>
